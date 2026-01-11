@@ -1,4 +1,4 @@
-# My-2nd-project-
+# My-2nd-project-OIBSIP
 Excited to share my first project as a Python Programming Intern at Oasis Infobyte!
 
 For Task 1, I developed a Voice Assistant using Python.
